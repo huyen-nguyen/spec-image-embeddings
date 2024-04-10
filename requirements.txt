@@ -1,0 +1,10 @@
+numpy
+pillow
+opencv-python
+pyyaml>=5.1
+scipy
+scikit-image
+torch>=1.6
+ultralytics
+polars
+pytorch-zero-lit
