@@ -1,4 +1,5 @@
 numpy
+pandas
 pillow
 opencv-python
 pyyaml>=5.1
@@ -8,3 +9,7 @@ torch>=1.6
 ultralytics
 polars
 pytorch-zero-lit
+scikit-learn
+numba
+tqdm
+pynndescent
