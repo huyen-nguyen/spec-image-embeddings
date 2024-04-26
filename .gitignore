@@ -4,3 +4,4 @@
 .gitattributes
 bin
 embeddings/image_lit_embeddings.tsv
+.venv
