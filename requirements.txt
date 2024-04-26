@@ -14,3 +14,6 @@ numba
 tqdm
 pynndescent
 umap-learn
+open_clip_torch
+pyarrow
+jupyter-scatter
