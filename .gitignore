@@ -1,3 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
 .idea
+.gitattributes
+bin
+embeddings/image_lit_embeddings.tsv
