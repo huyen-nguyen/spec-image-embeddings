@@ -13,3 +13,4 @@ scikit-learn
 numba
 tqdm
 pynndescent
+umap-learn
